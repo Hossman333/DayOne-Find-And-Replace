@@ -31,6 +31,7 @@ If you do NOT own a Mac, but have access to a Mac, you may export your journals 
 10. Type `cd DayOne-Find-And-Replace-master`
 
 This script was made in Python, and fortunately Mac ships with Python!
+
 11. Type `python main.py --word-replaced veggies --word-replacing pizza`
 
 #### Waaaaaaaaaaaaait!
