@@ -25,6 +25,7 @@ If you do NOT own a Mac, but have access to a Mac, you may export your journals 
 7. Using Mac's built in finder(spotlight), search for `Terminal`.
 
 ![Demo pic for spotlight](demo.png)
+
 8. Type `ls` to view the directories on your Mac.
 9. Assuming you still have the project in your `Downloads` folder, type `cd Downloads`
 10. Type `cd DayOne-Find-And-Replace-master`
