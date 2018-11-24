@@ -71,7 +71,9 @@ Voila! You're done! Enjoy!
 
 ## Note
 
-I did a diff on the files, and unfortunately there was a slight loss when I probably loaded in the JSON in Python. It also could have happened when I wrote the file out, but the large numbers that Day One stores get slightly tweaked. The three that I've seen change are `latitude`, `longitude`, and `visibilityKM`. Doesn't seem like a big deal to me, but if you want to fix it, then by all means PR's are accepted. (:
+As you probably noted at the first example image some other numbers were changed.
+
+I did a diff on the files, and unfortunately there's a slight loss when I load in the JSON(or so I think). The large numbers that Day One stores get slightly tweaked. The three that I've seen change are `latitude`, `longitude`, and `visibilityKM`. Doesn't seem like a big deal to me, but if you want to fix it, then by all means PR's are accepted. (:
 
 ---
 
