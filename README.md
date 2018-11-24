@@ -55,7 +55,7 @@ If you followed step 5 and 6, the path to the file should be correct.
 
 ### One Journal
 
-12. Now instead of typing a directory, we will just give the path of the file, for example: `python main.py --word-replaced veggies --word-replacing pizza --file-in journals/My Smelly ../Journal.json`
+12. Now instead of typing a directory, we will just give the path of the file, for example: `python main.py --word-replaced veggies --word-replacing pizza --file-in ../journals/My Smelly Journal.json`
 
 13. Hit enter!
 
