@@ -48,11 +48,11 @@ Now you have two options. You can either give the script one single journal, or 
 ### All Journals
 
 If you followed step 5 and 6, the path to the file should be correct.
-12. Going back to what we typed, finish typing it `python main.py --word-replaced veggies --word-replacing pizza --folder-in journals`
+12. Going back to what we typed, finish typing it `python main.py --word-replaced veggies --word-replacing pizza --folder-in ../journals`
 
 ### One Journal
 
-12. Now instead of typing a directory, we will just give the path of the file, for example: `python main.py --word-replaced veggies --word-replacing pizza --file-in journals/My Smelly Journal.json`
+12. Now instead of typing a directory, we will just give the path of the file, for example: `python main.py --word-replaced veggies --word-replacing pizza --file-in journals/My Smelly ../Journal.json`
 
 13. Hit enter!
 
